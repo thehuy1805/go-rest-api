@@ -10,6 +10,7 @@ Setup
 Clone the repository:
 bash
 
+ggg
 
 git clone <repository-url>
 cd go-rest-api
